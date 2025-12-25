@@ -12,7 +12,7 @@ A simple and professional React application that converts live speech into text 
 ```bash
 npm install
 npm start
-
+```
 ## Project Structure
 
 ```text
@@ -28,3 +28,4 @@ speech-to-text/
 │
 ├── package.json      # Project dependencies
 └── README.md         # Project documentation
+

@@ -15,7 +15,6 @@ npm start
 ```
 ## Project Structure
 
-```text
 speech-to-text/
 │
 ├── public/
@@ -28,4 +27,5 @@ speech-to-text/
 │
 ├── package.json      # Project dependencies
 └── README.md         # Project documentation
+
 
